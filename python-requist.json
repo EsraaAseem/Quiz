@@ -1,0 +1,74 @@
+[
+    {
+      "title": "What is paython?",
+      "answer_1": "procure language",
+      "answer_2": "low level language",
+      "answer_3": "objected oriented progranning",
+      "answer_4": "very hard language",
+      "right_answer": "objected oriented progranning"
+    },
+    {
+      "title": " What is the maximum possible length of an identifier?",
+      "answer_1": "16",
+      "answer_2": "64",
+      "answer_3": "None of these above",
+      "answer_4": "32",
+      "right_answer": "None of these above"
+    },
+    {
+      "title": "Who developed the Python language?",
+      "answer_1": "Zim Den",
+      "answer_2": "Guido van Rossum",
+      "answer_3": "Niene Stom",
+      "answer_4": "Wick van Rossum",
+      "right_answer": " Guido van Rossum"
+    },
+    {
+      "title": "In which year was the Python language developed?",
+      "answer_1": "1980",
+      "answer_2": "2000",
+      "answer_3": "1989",
+      "answer_4": "1995",
+      "right_answer": "1989"
+    },
+    {
+      "title": " Which of the following is not a keyword in Python language?",
+      "answer_1": "val",
+      "answer_2": "with",
+      "answer_3": "raise",
+      "answer_4": "try",
+      "right_answer": "val"
+    },
+    {
+      "title": "Which of the following operators is the correct option for power(ab)?",
+      "answer_1": "a*^b",
+      "answer_2": "b^a",
+      "answer_3": "a^b",
+      "answer_4": "a**b",
+      "right_answer": "a**b"
+    },
+    {
+      "title": "What is the method inside the class in python language?",
+      "answer_1": "Argument",
+      "answer_2": "Function",
+      "answer_3": "Object",
+      "answer_4": "Atribute",
+      "right_answer": "Function"
+    },
+    {
+      "title": "Which character is used in Python to make a single line comment?",
+      "answer_1": "/",
+      "answer_2": "//",
+      "answer_3": "!",
+      "answer_4": "#",
+      "right_answer": "#"
+    },
+    {
+      "title": "Which one of the following is the correct extension of the Python file?",
+      "answer_1": ".P",
+      "answer_2": ".Python",
+      "answer_3": ".Py",
+      "answer_4": "None Of Above",
+      "right_answer": ".Py"
+    }
+  ]
